@@ -1,2 +1,2 @@
 # wikibot
-this is example bot for aiogram
+this is example bot using aiogram library
